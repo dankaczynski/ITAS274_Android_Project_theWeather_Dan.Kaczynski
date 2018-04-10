@@ -2,6 +2,9 @@ Internet Programming III
 Daniel Kaczynski
 Final Project / Android Weather App
 
+Link to my codes Github, was made after the app so it doesn't have changes recorded:
+https://github.com/dankaczynski/ITAS274_Android_Project_theWeather_Dan.Kaczynski
+
 Bugs/Broken Features:
 Crashes on Startup
 
@@ -41,6 +44,8 @@ https://github.com/DigitalPhantom/PhantomWeatherAndroid
 
 
 References/ Tutorials Used:
+
+https://github.com/dankaczynski/ITAS274_Android_Project_theWeather_Dan.Kaczynski
 
 https://developer.yahoo.com/weather/
 
